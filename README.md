@@ -1,4 +1,3 @@
-
 ## Resumo
 
 Vigilante_das_Rochas_do_Mar
