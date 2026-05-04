@@ -1,5 +1,4 @@
 # Vigilante das Rochas do Mar
-
 ## Summary
 Este projeto utiliza inteligência artificial para monitorizar e identificar alterações nas rochas marinhas, ajudando na preservação dos ecossistemas costeiros através de análise de imagem.
 
